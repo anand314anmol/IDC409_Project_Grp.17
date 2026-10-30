@@ -7,7 +7,7 @@ Project repo for the IDC409 Data Science course (Group 17)
 - _student-mat.csv_ --- cleaned dataset of math class
 
 - _student-por.csv_ --- cleaned dataset of portugese class
-- EDA.ipynp --- General analysis of the dataset
+- _EDA.ipynp_ --- General analysis of the dataset
 - _Linear_Regression_Math_Class.ipynb_ --- linear regression model trained on math class dataset 
 - _Linear_Regression_Portugese_Class.ipynb_ --- linear regression model trained on portugese class dataset 
 - _SVM_Math_Class.ipynb_ --- SVM Model trained on Math class dataset 
@@ -17,3 +17,14 @@ Project repo for the IDC409 Data Science course (Group 17)
 - _Random_forest_Math_Class.ipynb_ --- Random forest Model trained on Math class dataset 
 - _Random_forest_Portugese_Class.ipynb_ --- Random forest Model trained on potugese class dataset
 - _Random_forest_Portugese_Class.ipynb_ --- Random forest Model trained on potugese class dataset 
+- _logistic_regression_Portugese.ipynb_ --- logistic regression Model trained on potugese class dataset
+- 
+
+## Contributions
+
+- Linear Regression --- Anmol
+- Random Forest --- Shivam
+- logistic regression --- Ashmi
+- Decision tree --- Ashmi
+- Decision tree(Classification) --- Shivam
+- SVM --- Anmol
